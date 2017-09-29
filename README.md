@@ -12,4 +12,4 @@ I'm trying to learn Vulkan graphics API.
 	export VK_LAYER_PATH=$VULKAN_SDK/x86_64/etc/explicit_layer.d
 
 - update your graphics driver
-- make
+- cd minimal-sdl2 && make && ./minimal-sdl2-vulkan
